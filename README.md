@@ -2,20 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/cchamb26">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=560&lines=CS+student+%40+George+Mason+University;Shipping+full-stack+%2B+iOS+apps+with+LLMs;PatriotHacks+2025+%F0%9F%8F%86;Arch+Linux+%2B+Neovim+daily+driver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=560&lines=Full-stack+engineer+%2B+iOS+developer;Shipping+TypeScript%2C+Swift%2C+and+LLM+projects;PatriotHacks+2025+%F0%9F%8F%86;Arch+Linux+%2B+Neovim+daily+driver" alt="Typing SVG" />
   </a>
 </p>
-
----
-
-### About me
-
-- 🎓 CS @ **George Mason University**, class of '28
-- 🛠️ I build full-stack and iOS apps — usually TypeScript, Swift, and something with an LLM behind it
-- 🏆 **PatriotHacks 2025 winner** with ConsilAI, an AI classroom assistant
-- 💼 Shipped a contract AI trading assistant for Volatility Vault (Node.js + Azure OpenAI)
-- 🐧 Arch Linux + Hyprland on a ThinkPad, Neovim in the terminal
-- 📫 Reach me at **cchamberland26@gmail.com**
 
 ---
 
@@ -61,13 +50,15 @@
 
 > 🍜 **[whatNext](https://github.com/cchamb26/whatnext)**
 > Full-stack food recommender. GPT-4o analyzes up to 30 recent meals to suggest your next one with reasoning and a simple recipe. TypeScript + Swift + Node.js.
+
 ---
 
 <p align="center">
   <a href="mailto:cchamberland26@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/cchamb26">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cchamb26&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views" />
 </p>
