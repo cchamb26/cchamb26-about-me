@@ -1,11 +1,81 @@
-- 👋 Hi, I’m @cchamb26
-- 👀 I’m interested in full stack programming and web development.
-- 🌱 I’m currently learning javascript and refreshing my knowledge of HTML
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me cchamberland26@gmail.com
-- ⚡ Fun fact: I love eating any type of food
+<h1 align="center">Hey, I'm Christian 👋</h1>
 
-<!---
-pho-muncher/pho-muncher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://github.com/cchamb26">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=560&lines=CS+student+%40+George+Mason+University;Shipping+full-stack+%2B+iOS+apps+with+LLMs;PatriotHacks+2025+%F0%9F%8F%86;Arch+Linux+%2B+Neovim+daily+driver" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### About me
+
+- 🎓 CS @ **George Mason University**, class of '28
+- 🛠️ I build full-stack and iOS apps — usually TypeScript, Swift, and something with an LLM behind it
+- 🏆 **PatriotHacks 2025 winner** with ConsilAI, an AI classroom assistant
+- 💼 Shipped a contract AI trading assistant for Volatility Vault (Node.js + Azure OpenAI)
+- 🐧 Arch Linux + Hyprland on a ThinkPad, Neovim in the terminal
+- 📫 Reach me at **cchamberland26@gmail.com**
+
+---
+
+### Tech stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cchamb26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchamb26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cchamb26&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🚀 Featured projects
+
+> 🏆 **[ConsilAI Classroom Assistant](https://github.com/cchamb26/consilai)** — *PatriotHacks 2025 Winner*
+> AI lesson planner with a custom seating algorithm (RBSB) that balances student academic, behavioral, and support-needs scores. Built with Next.js, TypeScript, and Azure OpenAI.
+
+> 📱 **[moreTime](https://github.com/cchamb26/moretime)**
+> iOS task manager for students. Course-grouped tasks, 1–5 priority levels, swipe gestures, and post-completion learning debriefs that feed an integrated AI chat. Swift + SwiftUI.
+
+> 🍜 **[whatNext](https://github.com/cchamb26/whatnext)**
+> Full-stack food recommender. GPT-4o analyzes up to 30 recent meals to suggest your next one with reasoning and a simple recipe. TypeScript + Swift + Node.js.
+
+> ♠️ **[Poker Coach](https://github.com/cchamb26/poker-coach)**
+> React training tool that manages hand state and visualizes hand-strength probabilities. GPT-o3 suggests alternative lines of play in natural language.
+
+---
+
+<p align="center">
+  <a href="mailto:cchamberland26@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/cchamb26">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cchamb26&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views" />
+</p>
