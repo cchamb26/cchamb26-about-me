@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Christian 👋</h1>
+<h1 align="center">Christian Chamberland</h1>
 
 <p align="center">
   <a href="https://github.com/cchamb26">
