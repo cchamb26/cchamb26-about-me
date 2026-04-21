@@ -1,11 +1,5 @@
 <h1 align="center">Christian Chamberland</h1>
 
-<p align="center">
-  <a href="https://github.com/cchamb26">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=560&lines=Full-stack+engineer+%2B+iOS+developer" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ### Tech stack
